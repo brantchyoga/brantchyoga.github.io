@@ -29,6 +29,7 @@ there are definitely some properties you should add!*/
         float: left;
         border-bottom: ;
         list-style-type: none;
+        display: block;
     }
     nav li {
         float: left;
